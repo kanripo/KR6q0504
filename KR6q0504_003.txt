@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:53:11.357845
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:53
 #+TITLE: 寂光豁禪師語錄
 #+PROPERTY: CBETA_ID J36nB367
 #+PROPERTY: ID KR6q0504
 #+PROPERTY: SOURCE Jiaxing Canon Vol. 36, No. B367
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION J
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0504_J_003-0864a> 
 #+PROPERTY: JUAN 3
-
- 寂光豁禪師語錄卷三¶
+寂光豁禪師語錄卷三¶
 嗣法門人淨慧等編¶
 
-拈古¶
+* 拈古¶
 
 「舉世尊初生下一手指天一手指地周行七步目顧¶
 四方云天上天下惟吾獨尊雲門云我當時若見一¶
@@ -192,7 +191,7 @@
 於臨末梢頭方纔有些本分雖然百萬億眾於¶
 此有箇悟入怎奈明眼人落井何。】¶
 
-頌古¶
+* 頌古¶
 
 「世尊初生。」¶
 
